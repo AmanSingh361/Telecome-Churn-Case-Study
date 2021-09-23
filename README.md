@@ -3,4 +3,4 @@
 
 ### Requirement: To identify the high risk churning customer and identify the main indicator of those churn customers among the high profitable customers.
 
-### Solution: Build the logistic regression model with 100% recall which is able to identify those important indicator that is helpful for predicting the high risk churning customers.
+### Solution: Build the logistic regression model with 100% recall which is able to identify those important indicators that are helpful for predicting the high risk churning customers.
